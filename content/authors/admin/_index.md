@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Rethink Digital
     url: ""
 superuser: true
 authors:
@@ -10,39 +10,19 @@ role: ""
 bio: My passion is creating High-Performance Digital Organizations
 interests:
   - Leadership
-  - DevOps
-  - Agile
-  - digital transformation
-  - enterprise architecture
-  - talent management
-  - value management
+  - DevOps / Agile
+  - Digital transformation
+  - High-Performance Organizations
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    link: https://twitter.com/rfarenhorst
+email: "rik@rethinkdigital.nl"
 user_groups:
   - Researchers
   - Visitors
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I love challenging the status quo, strongly believe that companies should digitally disrupt or die, and have a passion for building High-Performance Digital Organizations.
