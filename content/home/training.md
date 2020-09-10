@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: rik_presenting.png
     image_darken: 0.6
     image_parallax: true
     image_position: center
