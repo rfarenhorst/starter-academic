@@ -22,7 +22,7 @@ design:
   background:
     image: rik_presenting4.png
     image_darken: 0.1
-    image_parallax: true
+    image_parallax: false
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
