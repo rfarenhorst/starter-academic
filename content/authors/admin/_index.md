@@ -1,3 +1,6 @@
+overlay_img = "rik_presenting.png"  # Image path relative to your `static/media/` folder.
+overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
 ---
 organizations:
   - name: Rethink Digital
@@ -16,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "rik@rethinkdigital.nl"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rfarenhorst
