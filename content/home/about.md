@@ -8,7 +8,7 @@ weight = 2  # Order that this section will appear in.
 
 
 
-title = "Rethinking Digital"
+title = "About me"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
