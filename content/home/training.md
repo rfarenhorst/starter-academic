@@ -10,6 +10,7 @@ active: true
 headless: true
 
 # image_size: cover
+# image_position: center
 # Order that this section appears on the page.
 weight: 1
 
@@ -20,9 +21,8 @@ design:
   columns: "2"
   background:
     image: rik_presenting4.png
-    image_darken: 0.1
+    image_darken: 0.9
     image_parallax: false
-    image_position: center
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
