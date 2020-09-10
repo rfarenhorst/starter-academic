@@ -35,12 +35,6 @@ Over the past decade, Rik has created and delivered many trainings on various le
 In 2016 Rik was one of the founding fathers of DASA by creating its competence framework and defining the DASA DevOps principles. He is also one of the master trainers of DASA's DevOps Fundamentals course. Since 2018, as chairman of DASA’s Enterprise Leadership Forum, Rik has inspired executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation. 
 
 
-# {{% alert note %}}
-# This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-# Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-# {{% /alert %}}
-
 
 
 
