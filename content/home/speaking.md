@@ -25,7 +25,7 @@ Rik is a frequent keynote speaker at (international) conferences and (executive)
 
 He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to resort to virtual events and talks when required.
 
-| {{< figure library="true" src="rik_speaking.jpg" width="400px" title="Keynote presentation CIO Insights 2019" >}} | {{< figure library="true" src="rik_presenting5.jpg" width="400px" title="DevOps summit" >}}
+| {{< figure library="true" src="rik_speaking.jpg" width="400px" title="Keynote presentation CIO Insights 2019" >}} | {{< figure library="true" src="rik_presenting5.png" width="400px" title="DevOps summit" >}}
 
 #### Selected Talks
 
