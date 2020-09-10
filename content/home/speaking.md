@@ -20,23 +20,23 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+Rik is an international keynote speaker. Favorite topics are building high-performance digital organizations, talent management, DevOps & Agile at scale, digital leadership, Agile at scale, and the interplay between organizational and digital transformation. 
 
-|  |  |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------- |
-| {{< figure library="true" src="rik_presenting4.png" title="DevOps summit" >}} | Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations. He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to resort to virtual events and talks when required. |
-| .  | .  |
+Book Rik for a lecture or keynote at your event? Or do you have some other question? Get in touch to discuss possibilities!
 
-Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.
-
-
-
-{{< figure library="true" src="rik_speaking.jpg" title="Keynote presentation CIO Insights 2019" >}} 
-
-{{< figure library="true" src="rik_presenting5.png" title="DevOps summit" >}}
-
+{{< figure library="true" src="rik_speaking.jpg" >}} 
 
 
 #### Selected Talks
+
+
+{{< youtube XujJZxfeCaM >}}
+
+
+{{< youtube VPzxFF8BVQY >}}
+
+{{< vimeo 204549050 >}}
+
 
 <table width="500px">
     <tr>
