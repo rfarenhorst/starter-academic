@@ -34,18 +34,15 @@ design:
 ---
 
 <div style="text-align: right">
-There are few professionals who can claim a richer experience leading and growing high-performance teams for highly-renowned organizations than Rik. He has more than 15 years of experience in the IT domain, and has built a rich leadership, (executive) management, consultancy and academic track record. 
+Rethink your Digital Strategy now!
 
-Using his company 'Rethink Digital', Rik's main focus is on creating as many High-Performing Digital organizations as possible. He combines training, consulting, speaking, and taking senior leadership positions to make as much impact as possible, and to continuously sharpen the saw.
+Digital disruption calls for new leadership
 
-...
+DevOps and Agile are key!
 
-...
+People first!
 
-...
+It's all about value
 
-test
-
-test
 </div>
  
