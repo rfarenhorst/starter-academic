@@ -18,31 +18,20 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: rik_presenting2.png
+    image: cegeka.png
     image_darken: 0.1
-    image_parallax: false
+    image_parallax: true
     image_position: center
-   
+    image_size: cover
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
-
-
-# Rik is one of the founding members of the DevOps Agile skills Association (DASA), created its competence framework and defined the DASA DevOps principles. He is also a master trainer in DASA's courseware portfolio. As chairman of DASA’s Enterprise Leadership Forum, Rik has inspired executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation. 
-# Rik has senior leadership experience (e.g. CIO of Transavia Airlines) and is an experienced supervisory board member.
-
 ---
 
-<div style="text-align: right">
+
 Rethink your Digital Strategy now!
 
-Digital disruption calls for new leadership
+Rik is one of the founding members of the DevOps Agile skills Association (DASA), created its competence framework and defined the DASA DevOps principles. He is also a master trainer in DASA's courseware portfolio. As chairman of DASA’s Enterprise Leadership Forum, Rik has inspired executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation. 
 
-DevOps and Agile are key!
-
-People first!
-
-It's all about value
-
-</div>
+Rik has senior leadership experience (e.g. CIO of Transavia Airlines) and is an experienced supervisory board member.
  
