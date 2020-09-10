@@ -21,12 +21,13 @@ design:
     image: rik_presenting.png
     image_darken: 0.1
     image_parallax: true
-    image_position: left
+    image_position: center
     image_size: 800px
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+test 
 
 There are few professionals who can claim a richer experience leading and growing high-performance teams for highly-renowned organizations than Rik. He has more than 15 years of experience in the IT domain, and has built a rich leadership, (executive) management, consultancy and academic track record. 
 
