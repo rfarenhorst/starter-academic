@@ -11,12 +11,12 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "700px"
+height = "650px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "DevOps or Die"
+  title = ""
   content = ""
   align = "right"  # Choose `center`, `left`, or `right`.
 
@@ -36,7 +36,7 @@ height = "700px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Rethinking Digital"
+  title = ""
   content = ""
   align = "right"
 
@@ -45,7 +45,7 @@ height = "700px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "It's the People, stupid!"
+  title = ""
   content = ""
   align = "right"
 
