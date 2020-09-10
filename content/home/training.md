@@ -20,7 +20,7 @@ design:
   background:
     image: rik_presenting.png
     image_darken: 0.1
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
