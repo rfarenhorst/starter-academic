@@ -32,9 +32,9 @@ He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to re
 <table width="500px">
     <tr>
         <td width="100px">Lorum ipsum doles</td>
-        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" style="position: absolute; top: 0; left: 0; border:0;" allowfullscreen title="YouTube Video"></iframe></td></tr>
+        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" allowfullscreen title="YouTube Video"></iframe></td></tr>
     <tr><td width="100px">Test zin om tabel goed te krijgen</td>
-        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" style="position: absolute; top: 0; left: 0; border:0;" allowfullscreen title="YouTube Video"></iframe></td></tr></table>
+        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" allowfullscreen title="YouTube Video"></iframe></td></tr></table>
 
 
 
