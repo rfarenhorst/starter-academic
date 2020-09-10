@@ -27,4 +27,5 @@ He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to re
 
 {{< figure library="true" src="rik_speaking.jpg" title="Keynote presentation CIO Insights 2019" >}}
 
-
+#### DevOps Summit 2018
+{{< youtube XujJZxfeCaM >}}
