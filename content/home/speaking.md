@@ -29,9 +29,22 @@ He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to re
 
 #### Selected Talks
 
-| Test           | Table                   |
-| ------------------| ------------------------------ |
-| {{< youtube XujJZxfeCaM >}}           | {{< youtube XujJZxfeCaM >}}           |
-| {{< youtube XujJZxfeCaM >}}   | To be selected             |
+<table width="500px">
+    <tr>
+        <td>{{< youtube XujJZxfeCaM >}}</td>
+        <td>{{< youtube XujJZxfeCaM >}}</td>
+        
+    </tr>
+    <tr>
+        <td>{{< youtube XujJZxfeCaM >}}</td>
+        <td>{{< youtube XujJZxfeCaM >}}</td>
+        
+    </tr>
+    
+</table>
+
+
+
+
 
 
