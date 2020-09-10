@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: rik_presenting3.png
+    image: cegeka.png
     image_darken: 0.1
     image_parallax: false
     image_position: center
