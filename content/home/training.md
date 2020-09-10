@@ -26,6 +26,11 @@ design:
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
+
+
+# Rik is one of the founding members of the DevOps Agile skills Association (DASA), created its competence framework and defined the DASA DevOps principles. He is also a master trainer in DASA's courseware portfolio. As chairman of DASA’s Enterprise Leadership Forum, Rik has inspired executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation. 
+# Rik has senior leadership experience (e.g. CIO of Transavia Airlines) and is an experienced supervisory board member.
+
 ---
 
 Rethinking Digital 
@@ -34,9 +39,4 @@ There are few professionals who can claim a richer experience leading and growin
 
 Using his company 'Rethink Digital', Rik's main focus is on creating as many High-Performing Digital organizations as possible. He combines training, consulting, speaking, and taking senior leadership positions to make as much impact as possible, and to continuously sharpen the saw.
 
-# Rik is one of the founding members of the DevOps Agile skills Association (DASA), created its competence framework and defined the DASA DevOps principles. He is also a master trainer in DASA's courseware portfolio. As chairman of DASA’s Enterprise Leadership Forum, Rik has inspired executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation. 
-
-# Rik has senior leadership experience (e.g. CIO of Transavia Airlines) and is an experienced supervisory board member.
-
-
-
+ 
