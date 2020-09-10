@@ -5,6 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear in.
 
+color = "navy"
+
+
 title = "Rethinking Digital"
 
 # Choose the user profile to display
