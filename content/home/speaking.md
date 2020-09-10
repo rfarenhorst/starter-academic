@@ -21,6 +21,17 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+<table width="1000px">
+    <tr>
+        <td width="700px"><img src="rik_speaking.jpg" alt="CIO Insights conference" width="500" height="800"></td>
+        <td width="300px">Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.</td></tr>
+    <tr><td width="100px">Test test</td>
+        <td width="400px">He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to resort to virtual events and talks when required.</td></tr></table>
+
+
+
+
+
 Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.
 
 He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to resort to virtual events and talks when required.
