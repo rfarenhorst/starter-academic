@@ -37,16 +37,3 @@ Book Rik for a lecture or keynote at your event? Or do you have some other quest
 
 {{< vimeo 204549050 >}}
 
-
-<table width="500px">
-    <tr>
-        <td width="100px">Lorum ipsum doles</td>
-        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" allowfullscreen title="YouTube Video"></iframe></td></tr>
-    <tr><td width="100px">Test zin om tabel goed te krijgen</td>
-        <td width="400px"><iframe src="https://www.youtube.com/embed/XujJZxfeCaM?autoplay=1" allowfullscreen title="YouTube Video"></iframe></td></tr></table>
-
-
-
-
-
-
