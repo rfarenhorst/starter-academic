@@ -16,7 +16,7 @@ title: Speaking
 subtitle:
 
 design:
-  columns: "1"
+  columns: "3"
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
