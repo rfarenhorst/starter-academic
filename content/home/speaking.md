@@ -10,13 +10,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 3
 
 title: Speaking
 subtitle:
 
 design:
-  columns: "3"
+  columns: "1"
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
