@@ -20,7 +20,7 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: rik_presenting5.png
+    image: rik_presenting4.png
     image_darken: 0.1
     image_parallax: false
     image_size: 300
