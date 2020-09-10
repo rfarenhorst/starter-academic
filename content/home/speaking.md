@@ -29,11 +29,13 @@ Book Rik for a lecture or keynote at your event? Or do you have some other quest
 
 #### Selected Talks
 
-
 {{< youtube XujJZxfeCaM >}}
 
+.
 
 {{< youtube VPzxFF8BVQY >}}
+
+.
 
 {{< vimeo 204549050 >}}
 
