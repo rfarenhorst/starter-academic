@@ -11,13 +11,13 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "700px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "LEading"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,7 +35,7 @@ height = "500px"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Speaker"
+  title = "Speaking"
   content = ""
   align = "left"
 
