@@ -19,7 +19,7 @@ design:
   columns: "2"
   background:
     image: rik_presenting.png
-    image_darken: 0.2
+    image_darken: 0.1
     image_parallax: true
     image_position: center
   #  image_size: cover
@@ -36,7 +36,7 @@ Rik is one of the founding members of the DevOps Agile skills Association (DASA)
 
 Rik has senior leadership experience (e.g. CIO of Transavia Airlines) and is an experienced supervisory board member.
 
-
+test
 
 
 
