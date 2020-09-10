@@ -29,6 +29,16 @@ He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to re
 
 {{< figure library="true" src="rik_presenting5.png" title="DevOps summit" >}}
 
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| {{< figure library="true" src="rik_presenting4.png" title="DevOps summit" >}}   | {{< figure library="true" src="rik_training.png" title="DevOps summit" >}}   |
+| Content Cell  | Content Cell  |
+
+
+
+
 #### Selected Talks
 
 <table width="500px">
