@@ -12,7 +12,7 @@ headless: true
 # 
 # image_position: center
 # Order that this section appears on the page.
-weight: 1
+weight: 4
 
 title: 
 subtitle:
