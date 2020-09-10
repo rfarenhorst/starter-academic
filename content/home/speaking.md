@@ -17,13 +17,6 @@ subtitle:
 
 design:
   columns: "2"
-  background:
-    image: rik_speaking.jpg
-    image_darken: 0.1
-    image_parallax: false
-    image_position: left
-    image_size: cover
-    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
@@ -31,5 +24,7 @@ design:
 Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.
 
 He can be contacted for a speaking opportunity. Due to COVID19 Rik is able to resort to virtual events and talks when required.
+
+{{< figure library="true" src="rik_speaking.jpg" title="Keynote presentation CIO Insights 2019" >}}
 
 
