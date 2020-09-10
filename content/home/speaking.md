@@ -21,8 +21,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-| ------------- | ------------- |
-| {{< figure library="true" src="rik_presenting4.png" title="DevOps summit" >}}   | Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.  |
+| First Header ......................................................................................................... | Second Header |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------- |
+| {{< figure library="true" src="rik_presenting4.png" title="DevOps summit" >}} | Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.  |
 | .  | .  |
 
 Rik is a frequent keynote speaker at (international) conferences and (executive) seminars and has given numerous talks on leadership in our digital disruptive world, Agile at scale, DevOps transformations, and organizational and digital transformations.
