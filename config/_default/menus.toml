@@ -10,28 +10,23 @@
 
 [[main]]
   name = "Speaking"
-  url = "#projects"
-  weight = 30
+  url = "#speaking"
+  weight = 20
   
  [[main]]
   name = "Training"
-  url = "#posts"
-  weight = 20
+  url = "#training"
+  weight = 30
 
-[[main]]
-  name = "Consulting"
-  url = "#featured"
-  weight = 40
-  
-[[main]]
+  [[main]]
   name = "Leadership"
-  url = "#featured"
+  url = "#leadership"
   weight = 40
   
 [[main]]
   name = "Resources"
-  url = "#featured"
-  weight = 40
+  url = "#resources"
+  weight = 50
 
 [[main]]
   name = "Contact"
