@@ -27,15 +27,4 @@ Book Rik for a lecture or keynote at your event? Or do you have some other quest
 {{< figure library="true" src="rik_speaking.jpg" >}} 
 
 
-#### Selected Talks
-
-{{< youtube XujJZxfeCaM >}}
-
-.
-
-{{< youtube VPzxFF8BVQY >}}
-
-.
-
-{{< vimeo 204549050 >}}
 
