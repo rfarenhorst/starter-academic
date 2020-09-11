@@ -31,6 +31,17 @@ Please find below links to articles, interviews, movies, and keynote presentatio
 <iframe src="https://fast.wistia.net/embed/iframe/vodsrt4c1e" title="Interview - DASA Forerunner Member Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="640" height="360"></iframe>
 <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
 
+#### Selected Talks
+
+{{< youtube XujJZxfeCaM >}}
+
+.
+
+{{< youtube VPzxFF8BVQY >}}
+
+.
+
+{{< vimeo 204549050 >}}
 
 
 
