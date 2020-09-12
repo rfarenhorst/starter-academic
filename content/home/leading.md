@@ -31,6 +31,7 @@ gallery_item:
    image: dasa.jpg
    caption: Hotelschool The Hague   
 ---
+{{< gallery >}}
 
 Rik has more than 15 years of experience in the IT domain, and has built a rich leadership, management, consultancy and academic track record. Rik was CIO of the airline Transavia, one of the strongest brands in the European aviation industry. Here he led the digital and organization transformation of Transavia, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
 
@@ -40,7 +41,7 @@ Rik is also chairman of the enterprise leadership forum of the DevOps Agile Skil
 
 During his board member position of the CIO platform Netherlands, Rik spearheaded the 'Transformation, People, & Organization theme' to promote knowledge sharing among its 130+ member organizations and helped expand the body of knowledge around what leaders should to to help their organizations benefit from all digital transformation opportunities that exist.
 
-{{< gallery >}}
+
 
 
 
