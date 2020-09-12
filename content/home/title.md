@@ -12,6 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
+height = "800px"
+
 title: Rethink Digital
 subtitle:
 
