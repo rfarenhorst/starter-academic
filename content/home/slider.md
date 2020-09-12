@@ -11,13 +11,13 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "150px"
+height = "200px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Leadership & Management"
-  content = "Available for non-executive & executive board positions, or a.i. leadership roles to help transform organizations to the new digital normal."
+  content = "Available for non-executive & executive board positions or a.i. leadership roles to transform organizations to the new digital normal."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
