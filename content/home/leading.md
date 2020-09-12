@@ -29,7 +29,19 @@ gallery_item:
    caption: Hotelschool The Hague
  - album: gallery
    image: dasa.jpg
-   caption: Hotelschool The Hague   
+   caption: Hotelschool The Hague 
+ - album: gallery
+   image: hth.jpg
+   caption: Hotelschool The Hague
+ - album: gallery
+   image: dasa.jpg
+   caption: Hotelschool The Hague
+ - album: gallery
+   image: hth.jpg
+   caption: Hotelschool The Hague
+ - album: gallery
+   image: dasa.jpg
+   caption: Hotelschool The Hague
 ---
 
 {{< gallery >}}
