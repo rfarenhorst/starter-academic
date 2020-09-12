@@ -21,17 +21,18 @@ design:
     padding: ["20px", "0", "20px", "0"]
     
 gallery_item:
- - album: gallery
+  - album: gallery2
    image: transavia.png
    caption: Transavia
- - album: gallery
+ - album: gallery2
    image: hth.jpg
    caption: Hotelschool The Hague
- - album: gallery
+ - album: gallery2
    image: dasa.jpg
    caption: Hotelschool The Hague   
 ---
-{{< gallery >}}
+
+{{< gallery2 >}}
 
 Rik has more than 15 years of experience in the IT domain, and has built a rich leadership, management, consultancy and academic track record. Rik was CIO of the airline Transavia, one of the strongest brands in the European aviation industry. Here he led the digital and organization transformation of Transavia, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
 
