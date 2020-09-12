@@ -16,8 +16,8 @@ height = "250px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Leadership & Management"
-  content = "Available for non-executive & executive board positions or a.i. leadership roles to transform organizations to the new digital normal."
+  title = "Leading & Managing"
+  content = "Available for challenging non-executive & executive board positions or a.i. leadership roles to transform organizations to a new digital normal."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
