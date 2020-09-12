@@ -21,7 +21,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
     
 gallery_item:
-  - album: gallery2
+ - album: gallery2
    image: transavia.png
    caption: Transavia
  - album: gallery2
