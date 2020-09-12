@@ -13,7 +13,7 @@ headless: true
 weight: 1
 
 title: 
-subtitle: “Do or do not. There is no try.”
+subtitle: Do or do not. There is no try.
 
 design:
   columns: "1"
