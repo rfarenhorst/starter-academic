@@ -16,15 +16,15 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
-  content = ""
+  title = "Leadership"
+  content = "Contact Rik to hire him for an (ad interim) leadership and non-exec/exec management position"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
    
- overlay_img = "rik_presenting5.png"  # Image path relative to your `static/media/` folder.
+ # overlay_img = "rik_presenting5.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -36,21 +36,21 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
-  content = ""
+  title = "Speaking"
+  content = "Contact Rik now if you'd like to book him for a lecture, workshop or keynote presentation on your (virtual) event"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
+ # overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
-  content = ""
+  title = "Training"
+  content = "Contact Rik if you like to hire him for an in-company or tailor made training around leadership, digital and organizational transformations"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "rik_training.png"  # Image path relative to your `static/media/` folder.
+  # overlay_img = "rik_training.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 +++
 
