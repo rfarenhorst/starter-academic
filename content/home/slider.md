@@ -17,14 +17,14 @@ height = "800px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = ""
-  align = "right"  # Choose `center`, `left`, or `right`.
+  content = "Bla"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
    
-  overlay_img = "rik_presenting5.png"  # Image path relative to your `static/media/` folder.
+ # overlay_img = "rik_presenting5.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -37,19 +37,23 @@ height = "800px"
 
 [[item]]
   title = ""
-  content = ""
+  content = "Koe"
   align = "right"
 
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
+  # overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = ""
-  align = "right"
+  content = {{< youtube XujJZxfeCaM >}}
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "rik_training.png"  # Image path relative to your `static/media/` folder.
+  # overlay_img = "rik_training.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 +++
+
+
+
+
