@@ -21,6 +21,6 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]    
 ---
-{{< figure library="true" src="rik_speaking.jpg" >}} 
+{{< figure library="true" src="rik_presenting4.png" >}} 
 
 Small quote to end this title widget?
