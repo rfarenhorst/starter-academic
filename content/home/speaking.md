@@ -25,7 +25,7 @@ gallery_item:
    image: rik_speaking.jpg
    caption: CIO Insights
  - album: gallery
-   image: rik_training.png
+   image: rik_presenting5.png
    caption: DevOn 2020    
   # {{< figure library="true" src="rik_speaking.jpg"markdown figure >}}  
       
