@@ -17,10 +17,25 @@ subtitle:
 
 design:
   columns: "2"
+  background:
+    image: rik_presenting4.png
+    image_darken: 0.1
+    image_parallax: false
+    image_size: cover
+    text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "0", "20px", "0"]    
+    
+    
+    
+    
 ---
 Short quote yada yada yada
 
-{{< figure library="true" src="rik_speaking.jpg" >}} 
+this text
 
+needs to be long enough
+
+to make the background fit nicely
+
+or is there an easier way?
