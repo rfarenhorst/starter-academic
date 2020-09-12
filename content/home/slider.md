@@ -11,14 +11,14 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "300px"
+height = "200px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Leadership"
-  content = "Contact Rik to hire him for an (ad interim) leadership and non-exec/exec management position"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = "Leadership & Management"
+  content = "Available for non-executive and executive board positions, or a.i. leadership roles to help transform organizations to the new digital normal."
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -36,22 +36,24 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Speaking"
-  content = "Contact Rik now if you'd like to book him for a lecture, workshop or keynote presentation on your (virtual) event"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
- # overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Training"
-  content = "Contact Rik if you like to hire him for an in-company or tailor made training around leadership, digital and organizational transformations"
+  title = "Consulting & Training"
+  content = "Contact me for a tailor-made, (in-company) training, workshop or (executive) coaching opportunity on digital leadership or organizational/digital transformations."
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   # overlay_img = "rik_training.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
+  [[item]]
+  title = "Speaking"
+  content = "Contact me for a lecture or (keynote) presentation on your (virtual) event"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+ # overlay_img = "rik_presenting4.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+  
 +++
 
 
