@@ -46,7 +46,7 @@ height = "400px"
 
 [[item]]
   title = ""
-  content = "{{< youtube XujJZxfeCaM >}}"
+  content = "boom"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
