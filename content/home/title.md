@@ -13,12 +13,12 @@ headless: true
 weight: 1
 
 title: 
-subtitle:
+subtitle: “Do or do not. There is no try.”
 
 design:
   columns: "1"
   
-  spacing:
-    padding: ["20px", "0", "20px", "0"]    
+  # spacing:
+   # padding: ["20px", "0", "20px", "0"]    
 ---
 {{< figure library="true" src="rik_presenting4.png" >}} 
