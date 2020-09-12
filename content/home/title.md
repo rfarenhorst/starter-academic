@@ -20,17 +20,7 @@ design:
   
   spacing:
     padding: ["20px", "0", "20px", "0"]    
-    
-    
-    
-    
 ---
-Short quote yada yada yada
+{{< figure library="true" src="rik_speaking.jpg" >}} 
 
-this text
-
-needs to be long enough
-
-to make the background fit nicely
-
-or is there an easier way?
+Small quote to end this title widget?
