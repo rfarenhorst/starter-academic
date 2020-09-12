@@ -37,7 +37,7 @@ height = "200px"
 
 [[item]]
   title = "Consulting & Training"
-  content = "Contact me for a tailor-made, (in-company) training, workshop or (executive) coaching opportunity on digital leadership or organizational/digital transformations."
+  content = "Always eager to share knowledge via trainings or workshops, or coach passionate leaders on their digital journeys and transformations."
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -46,7 +46,7 @@ height = "200px"
   
   [[item]]
   title = "Speaking"
-  content = "Contact me for a lecture or (keynote) presentation on your (virtual) event"
+  content = "I love inspiring both leaders and specialists on organizational and digital transformation via lectures or (keynote) presentations."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
