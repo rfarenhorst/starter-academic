@@ -12,22 +12,23 @@ headless: true
 # 
 # image_position: center
 # Order that this section appears on the page.
-weight: 8
+weight: 6
 
 title: Training & coaching
 subtitle:
-
+    
 design:
-  columns: "2"
-  background:
-    image: rik_presenting4.png
-    image_darken: 0.1
-    image_parallax: false
-    image_size: 300
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  columns: "1"
+      
+gallery_item:
+ - album: gallery
+   image: rik_training.png
+   caption: CIO Insights 2019
+ 
+  
 ---
+
+{{< gallery >}}
 
 A lecture or keynote presentation by Rik usually lasts an hour. However, sometimes there is a need for a longer duration or more intensive interaction. Then a workshop or training is probably a better alternative. 
 
