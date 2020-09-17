@@ -8,7 +8,7 @@ weight = 3  # Order that this section will appear in.
 
 
 
-title = "About me"
+title = "About Rik"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
