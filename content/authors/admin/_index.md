@@ -16,7 +16,7 @@ bio: My passion is creating High-Performance Digital Organizations
 social:
   - icon: envelope
     icon_pack: fas
-    link: "rik@rethinkdigital.nl"
+    link: "#Contact"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/RikFarenhorst
