@@ -14,18 +14,18 @@
   weight = 20
   
  [[main]]
-  name = "Consulting & Training"
-  url = "#consulting and training"
+  name = "Training"
+  url = "#training"
   weight = 30
 
-  [[main]]
-  name = "Leading & Managing"
-  url = "#Leading and Managing"
+[[main]]
+  name = "Advisory"
+  url = "#advisory"
   weight = 40
 
-[[main]]
-  name = "Community Building"
-  url = "#building a community"
+  [[main]]
+  name = "Leadership"
+  url = "#leadership"
   weight = 50
 
 [[main]]
