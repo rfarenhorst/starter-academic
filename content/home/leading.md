@@ -21,18 +21,16 @@ design:
     padding: ["20px", "0", "20px", "0"]
     
 gallery_item:
- # - album: gallery2
- #  image: transavia.png
- #  caption: Transavia
+ - album: gallery
+   image: transavia.png
+   caption: Transavia
  - album: gallery
    image: hth.jpg
    caption: Hotelschool The Hague
  - album: gallery
    image: dasa.jpg
    caption: Hotelschool The Hague 
- - album: gallery
-   image: hth.jpg
-   caption: Hotelschool The Hague
+ 
 ---
 
 {{< gallery >}}
