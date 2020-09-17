@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: Leading and Managing
+title: Leadership
 subtitle:
 
 design:
