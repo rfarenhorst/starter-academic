@@ -25,12 +25,15 @@ social:
     link: https://twitter.com/rfarenhorst
 email: "rik@rethinkdigital.nl"
 
-
-user_groups:
-  - Researchers
-  - Visitors
 ---
-My core passion is to help create as many High-Performance Digital Organizations as possible. Over the past 15+ years I have gained valuable knowledge, skills and experience in the academic, consulting, start-up, and corporate world. Central themes have always been 'realizing more value with IT', better aligning 'Business' with 'IT', creating High-Performance cultures, and smartly investing in (digital) talent management for both leaders and specialists. In this era of digital disruption these themes are more important than ever. I am convinced that organizations need to invest heavily in organizational and digital transformation in order for them to remain relevant, successfull, or even survive.
 
-I love sharing knowledge, coaching and mentoring people, getting inspired by smart and passionate people, and solving complex problems. With my company Rethink Digital I am striving to make as much positive impact as I can. I focus on speaking, training, coaching, taking leadership and (sr.) management roles, and sharing knowledge via all available online and offline channels.  
+Throughout my 15+ year career I have focused on helping organizations getting more value out of IT. Often this has not much to do with changing or investing in technology. It is almost always primarily about culture, leadership, and organizational transformation. In my view, in these disruptive times, digital-driven innovation and organizational transformation is urgent and a necessity for organizations to survive. 
+
+With my company Rethink Digital, I help organizations rethink the way they do digital and help them to transform into High-Performance Digital Organizations. This typically involves challenging the status quo, providing guidance in defining a new (digital) strategy and organizational/technical future state, and coaching and training of the leadership and transformation teams.
+
+Over the past years I have built a career in academia, consulting, training and management. I have been in the luxurous position to have worked with great, knowledgeable and experienced leaders, experts, researchers, consultants, coaches, and trainers worldwide. It is my passion to share all this knowledge and experience as broadly and effective as possible I am committed to help shape and continously expand a body of knowledge on digital transformation, organizational transformation and digital leadership. To make as much positive impact as possible, I will spend as much time as possible to connect to fellow leaders and experts in the field, help share their stories, and stimulate knowledge sharing by building a community around them.
+
+
+
+
 
