@@ -12,7 +12,7 @@ headless: true
 # 
 # image_position: center
 # Order that this section appears on the page.
-weight: 6
+weight: 5
 
 title: Training
 subtitle:
