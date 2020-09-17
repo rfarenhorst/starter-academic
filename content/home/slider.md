@@ -57,8 +57,8 @@ height = "250px"
 
   
    [[item]]
-  title = "Sharing Stories and Community Building"
-  content = "Continuously looking for and sharing inspiring stories and experiences on digital/organizational transformation and leadership."
+  title = "Building a Community"
+  content = "Continuously sharing inspiring stories and experiences to build a community on digital/organizational transformation and leadership."
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
