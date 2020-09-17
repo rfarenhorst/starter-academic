@@ -14,7 +14,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 6
 
-title: Training & coaching
+title: Training
 subtitle:
     
 design:
@@ -35,18 +35,6 @@ gallery_item:
 A lecture or keynote presentation by Rik usually lasts an hour. However, sometimes there is a need for a longer duration or more intensive interaction. Then a workshop or training is probably a better alternative. 
 
 Workshops usually last 2 to 3 hours and are designed together with the client to give best results. Training by Rik is also possible, both classroom or online, varying from one or two-day trainings, to, for example, half a day per month for six months in a row. Please get in touch to discuss this. Typical subjects Rik provides workshops and trainings on include leadership, culture, digital transformation, organizational transformation, Agile & DevOps, and (enterprise) IT architecture. Rik is a certified author and trainer of trainings in the portfolio of the DevOps Agile Skills Association (DASA).
-
-If you are looking for personal guidance in your own leadership development and/or organizational or digital transformation, Rik is available as a leadership coach or consultant and has a lot of experience in (senior) leadership roles. Feel free to contact him to investigate what could be an appropriate way to get things working.
-
-
-
-
-
-
-
-
-
-
 
 
 
