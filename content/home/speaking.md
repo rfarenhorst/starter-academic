@@ -17,9 +17,7 @@ subtitle:
 
 design:
   columns: "1"
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-    
+      
 gallery_item:
  - album: gallery
    image: rik_speaking.jpg
