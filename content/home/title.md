@@ -19,6 +19,6 @@ design:
   columns: "1"
   
   # spacing:
-   # padding: ["20px", "0", "20px", "0"]    
+   # padding: ["5px", "0", "5px", "0"]    
 ---
-{{< figure library="true" src="rik_title.png" >}} 
+{{< figure library="true" src="rik_title.png" align="left" >}} 
