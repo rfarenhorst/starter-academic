@@ -21,4 +21,4 @@ design:
   # spacing:
    # padding: ["20px", "0", "20px", "0"]    
 ---
-{{< figure library="true" src="rik_presenting4.png" >}} 
+{{< figure library="true" src="rik_title.png" >}} 
