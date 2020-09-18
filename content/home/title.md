@@ -21,4 +21,6 @@ design:
   # spacing:
    # padding: ["5px", "0", "5px", "0"]    
 ---
-{{< figure library="true" src="rik_title.png" align="left" >}} 
+{{< figure library="true" src="rik_title.png" align='left' >}} 
+
+
