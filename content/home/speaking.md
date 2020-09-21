@@ -33,12 +33,21 @@ gallery_item:
   # {{< figure library="true" src="rik_speaking.jpg"markdown figure >}}  
       
 ---
+{{< gallery >}}
 
 Rik is an international keynote speaker and has delivered many lectures on conferences, (inc-company) events. Favorite topics are building high-performance digital organizations, the interplay between digital and organizational transformation, the importance of facilitative and digital leadership, talent management, and DevOps & Agile at scale. 
 
 Do you want to book Rik for a lecture or keynote at your event? Or do you have some other question? Get in touch to discuss possibilities!
 
-{{< gallery >}}
+Selected Talks:
+
+(placeholder)
+Keynote during KNOWIT 2019 conference in Helsinki, on building a high-performance digital organization at Transavia
+
+(placeholder)
+Presentation during DevOps Summit Amsterdam 2018, to share key leadership do's and dont's when leading a DevOps transformation
+
+
 
 
 
