@@ -31,7 +31,6 @@ Throughout his 15+ year career Rik has focused on helping organizations getting 
 
 With his company Rethink Digital, Rik helps organizations to rethink the way they do digital and help them to transform into High-Performance Digital Organizations. This typically involves challenging the status quo, providing guidance in defining a new (digital) strategy and organizational/technical future state, and coaching and training of the leadership and transformation teams.
 
-Over the past years Rik has built an impressive career in academia, consulting, training, and senior management. He has been in the luxurious position to have worked with great, knowledgeable and experienced leaders, experts, researchers, consultants, coaches, and trainers worldwide. It is his passion to share all this knowledge and experience as broadly and effective as possible. He is therefore committed to help shape and continuously expand the body of knowledge on digital transformation, organizational transformation and digital leadership. To make as much positive impact as possible, he will spend as much time as possible to connect to fellow leaders and experts in the field, help share their stories, and stimulate knowledge sharing by building a community or practice.
 
 
 
