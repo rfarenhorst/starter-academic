@@ -39,14 +39,20 @@ In this section you will find featured articless, interviews, and videos to prov
 
 #### Interviews
 
-| Rik Farenhorst & Mik Kersten advising digital leaders            | IASA Global (part 1) - the new role of the CIO         |
+| Rik Farenhorst & Mik Kersten advising digital leaders            | CIO Magazine interview, 2019 (Dutch)          |
 | ------------------------------ | ------------------------------ | 
-| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="360" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< youtube QyCMIv8BOMY >}}  |
+| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="360" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}   |
 
-test...
+IASA Global (part 1) - the new role of the CIO
 
-| IASA Global (part 2) - scaling agile and value management        | IASA Global (part 3) - creating the right Smell of the place         |
-| ------------------------------ | ------------------------------ | 
-| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
+{{< youtube QyCMIv8BOMY >}}
+
+IASA Global (part 2) - scaling agile and value management 
+
+{{< youtube qQcRA4LiMow >}}  
+
+IASA Global (part 3) - creating the right Smell of the place 
+
+{{< youtube WP-RqjnPKXo&t >}} 
 
 
