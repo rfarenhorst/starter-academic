@@ -43,10 +43,17 @@ In this section you will find featured articless, interviews, and videos to prov
 | ------------------------------ | ------------------------------ | 
 | <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/) {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}  |
 
-IASA Global CIO interviews (2019)
+IASA Global - Part 1: the new role of the CIO):
+{{< youtube QyCMIv8BOMY >}}
 
-| Part 1: the new role of the CIO)     | Part 2: scaling agile and value management  | Part 3: creating the right Smell of the place  |
-| ------------------------------ | ------------------------------ |  ------------------------------ | 
-| {{< youtube QyCMIv8BOMY >}} | {{< youtube qQcRA4LiMow >}}  | {{< youtube WP-RqjnPKXo&t >}} |
+IASA Global - Part 2: scaling agile and value management: 
+{{< youtube qQcRA4LiMow >}}
+
+IASA Global - Part 3: creating the right Smell of the place
+{{< youtube WP-RqjnPKXo&t >}}
 
 #### White papers
+
+| EMBRACING DIGITAL DISRUPTION BY ADOPTING DEVOPS PRACTICES            | THE NEED FOR NEW SKILLS – DASA DEVOPS COMPETENCE FRAMEWORK          |
+| ------------------------------ | ------------------------------ | 
+| [download article](https://www.devopsagileskills.org/resources/document/white-paper-embracing-digital-disruption-by-adopting-devops-practices/) {{< figure library="true" src="dasa-whitepaper1.jpg" title="" >}}  | [download article](https://www.devopsagileskills.org/resources/document/white-paper-the-need-for-new-skills-dasa-devops-competence-framework/) {{< figure library="true" src="dasa-whitepaper2.jpg" title="" >}}
