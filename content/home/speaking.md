@@ -38,10 +38,10 @@ Do you want to book Rik for a lecture or keynote at your event? [Get in touch](#
 
 #### Selected Talks
 
-| Link to the video recording             | Description                    |
+| Link to the video recording of the presentation             | Description                    |
 | -------------------------------------| ------------------------------ |
 | {{< youtube XujJZxfeCaM >}}          | DevOps Summit Amsterdam 2018: sharing leadership do's and dont's           |
-| {{< youtube VPzxFF8BVQY >}}          | Conlea webinar: building a high-performance digital organization at Transavia             |
+| {{< youtube VPzxFF8BVQY >}}          | Conlea webinar 2019: building a high-performance digital organization at Transavia             |
 
 
 
