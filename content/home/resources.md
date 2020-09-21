@@ -35,8 +35,7 @@ In this section you will find featured articless, interviews, and videos to prov
 
 | Why People are Passionate about DevOps and DASA            | Embracing Digital Disruption by Adopting DevOps Practices                    |
 | ------------------------------ | ------------------------------ |
-| <iframe src="https://fast.wistia.net/embed/iframe/07f8z2qa43" title="Why are People so Passionate about DevOps and DASA? Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe>
-<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script> | <iframe src="https://fast.wistia.net/embed/iframe/mb56aeph9d" title="Embracing Digital Disruption by Adopting DevOps Practices Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+| <iframe src="https://fast.wistia.net/embed/iframe/07f8z2qa43" title="Why are People so Passionate about DevOps and DASA" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>         | <iframe src="https://fast.wistia.net/embed/iframe/mb56aeph9d" title="Embracing Digital Disruption by Adopting DevOps Practices Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
 
 #### Interviews
 
