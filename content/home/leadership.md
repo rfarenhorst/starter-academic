@@ -40,7 +40,7 @@ During his board member position of the CIO platform Netherlands, Rik spearheade
 
 {{< figure library="true" src="dasa.jpg" title="" >}}
 
-Since 2018, Rik is chairman of the Enterprise Leadership Forum of the DevOps Agile Skills Association (DASA). His aim is to inspire executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation and to promote best practices that help these organizations to start their own unique journeys, inspired by success (and failure) stories of peers.
+Since 2018, Rik is chairman of the Enterprise Leadership Forum of the DevOps Agile Skills Association (DASA). His aim is to inspire executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation and to promote best practices that help these organizations to start their own unique journeys, inspired by success (and failure) stories of peers. The [Resources]{#resources) section contains much more information on DASA and Rik's vision on digital transformation.
 
 
 
