@@ -46,7 +46,7 @@ In this section you will find featured articless, interviews, and videos to prov
 
 | IASA Global (part 2) - scaling agile and value management            | IASA Global (part 3) - creating the right "smell of the place"         |
 | ------------------------------ | ------------------------------ | 
-| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  
+| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
 
 
 
