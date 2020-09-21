@@ -27,11 +27,19 @@ Rik is well-known for his global leadership in DevOps, Agile, and digital transf
 
 In this section you will find featured articless, interviews, and videos to provide you with pointers for how to best embark on your own journey!
 
+#### DevOps Agile Skills Association
 
-<iframe src="https://fast.wistia.net/embed/iframe/r05kuaccgj" title="The DevOps Principles that guide us support the ultimate search for flow in the delivery of IT Services Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+| Video to highlight the essential 6 DevOps principles to explain how to look at digital transformations            | A video to discuss the forerunner members of DASA to the world                   |
+| -------------------------------------| ------------------------------ |
+| <iframe src="https://fast.wistia.net/embed/iframe/r05kuaccgj" title="The DevOps Principles that guide us support the ultimate search for flow in the delivery of IT Services Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>         | <iframe src="https://fast.wistia.net/embed/iframe/vodsrt4c1e" title="Interview - DASA Forerunner Member Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>           |
+| {{< youtube VPzxFF8BVQY >}}          | Conlea webinar 2019: building a high-performance digital organization at Transavia             |
 
-<iframe src="https://fast.wistia.net/embed/iframe/vodsrt4c1e" title="Interview - DASA Forerunner Member Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe>
-<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+
+
+
+
+
 
 
 
