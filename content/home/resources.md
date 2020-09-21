@@ -43,15 +43,6 @@ In this section you will find featured articless, interviews, and videos to prov
 | ------------------------------ | ------------------------------ | 
 | <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/) {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}  |
 
-IASA Global - Part 1: the new role of the CIO):
-{{< youtube QyCMIv8BOMY >}}
-
-IASA Global - Part 2: scaling agile and value management: 
-{{< youtube qQcRA4LiMow >}}
-
-IASA Global - Part 3: creating the right Smell of the place
-{{< youtube WP-RqjnPKXo&t >}}
-
 #### White papers
 
 | Embracing digital disruption by adopting DevOps practices            | The need for new skills - DASA DevOps Competence Framework          |
