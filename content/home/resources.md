@@ -48,6 +48,9 @@ In this section you will find featured articless, interviews, and videos to prov
 | ------------------------------ | ------------------------------ | 
 | {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
 
+| CIO Magazine interview, 2019 (Dutch)            | Interview Management Team (Goudhaantje 2018 Award)         |
+| ------------------------------ | ------------------------------ | 
+| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
 
 
 
