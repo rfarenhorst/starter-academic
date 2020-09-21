@@ -44,13 +44,13 @@ In this section you will find featured articless, interviews, and videos to prov
 | <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik &amp; Rik - DASA Enterprise Leadership Forum Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="360" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< youtube QyCMIv8BOMY >}}    
 
 
-| IASA Global (part 2) - scaling agile and value management            | IASA Global (part 3) - creating the right "smell of the place"         |
+| IASA Global (part 2) - scaling agile and value management        | IASA Global (part 3) - creating the right "smell of the place"         |
 | ------------------------------ | ------------------------------ | 
-| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
+| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  
 
 | CIO Magazine interview, 2019 (Dutch)            | Interview Management Team (Goudhaantje 2018 Award)         |
 | ------------------------------ | ------------------------------ | 
-| {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}      | https://www.mt.nl/goudhaantjes/rik-farenhorst-snijvlak-kennis-inspiratie/566882  |
+| {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}      | https://www.mt.nl/goudhaantjes/rik-farenhorst-snijvlak-kennis-inspiratie/566882  
 
 
 
