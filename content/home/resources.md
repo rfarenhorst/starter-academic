@@ -29,9 +29,9 @@ In this section you will find featured articless, interviews, and videos to prov
 
 #### DevOps Agile Skills Association
 
-| Video to highlight the essential 6 DevOps principles to explain how to look at digital transformations            | A video to discuss the forerunner members of DASA to the world                   |
+| Introduction to the 6 key DevOps principles            | Whiteboard sketch on why DevOps is important                   |
 | -------------------------------------| ------------------------------ |
-| <iframe src="https://fast.wistia.net/embed/iframe/r05kuaccgj" title="The DevOps Principles that guide us support the ultimate search for flow in the delivery of IT Services Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>         | <iframe src="https://fast.wistia.net/embed/iframe/vodsrt4c1e" title="Interview - DASA Forerunner Member Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe> 
+| <iframe src="https://fast.wistia.net/embed/iframe/r05kuaccgj" title="The DevOps Principles that guide us support the ultimate search for flow in the delivery of IT Services Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>         | <iframe src="https://fast.wistia.net/embed/iframe/b563bck1k6" title="White Board - "Why DevOps is Important" Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe> 
 
 
 
