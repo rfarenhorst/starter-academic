@@ -39,11 +39,13 @@ In this section you will find featured articless, interviews, and videos to prov
 
 #### Interviews
 
-| Rik Farenhorst & Mik Kersten advising digital leaders            | IASA Global interview (part 1) - the new role of the CIO                  |
-| ------------------------------ | ------------------------------ |
-| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik &amp; Rik - DASA Enterprise Leadership Forum Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< youtube QyCMIv8BOMY >}} 
+| Rik Farenhorst & Mik Kersten advising digital leaders            | 
+| ------------------------------ | 
+| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik &amp; Rik - DASA Enterprise Leadership Forum Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | 
 
-
+| IASA Global interview (part 1) - the new role of the CIO         |
+| ------------------------------ | 
+| {{< youtube QyCMIv8BOMY >}}    |
 
 
 
