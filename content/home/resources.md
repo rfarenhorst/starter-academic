@@ -41,7 +41,7 @@ In this section you will find featured articless, interviews, and videos to prov
 
 | Rik Farenhorst & Mik Kersten advising digital leaders            | IASA Global (part 1) - the new role of the CIO         |
 | ------------------------------ | ------------------------------ | 
-| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="360" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< youtube QyCMIv8BOMY >}}  
+| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="360" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | {{< youtube QyCMIv8BOMY >}}  |
 
 test
 
