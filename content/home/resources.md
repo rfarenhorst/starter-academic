@@ -54,6 +54,6 @@ IASA Global - Part 3: creating the right Smell of the place
 
 #### White papers
 
-| EMBRACING DIGITAL DISRUPTION BY ADOPTING DEVOPS PRACTICES            | THE NEED FOR NEW SKILLS – DASA DEVOPS COMPETENCE FRAMEWORK          |
+| Embracing digital disruption by adopting DevOps practices            | The need for new skills - DASA DevOps Competence Framework          |
 | ------------------------------ | ------------------------------ | 
-| [download article](https://www.devopsagileskills.org/resources/document/white-paper-embracing-digital-disruption-by-adopting-devops-practices/) {{< figure library="true" src="dasa-whitepaper1.jpg" title="" >}}  | [download article](https://www.devopsagileskills.org/resources/document/white-paper-the-need-for-new-skills-dasa-devops-competence-framework/) {{< figure library="true" src="dasa-whitepaper2.jpg" title="" >}}
+| [download article](https://www.devopsagileskills.org/resources/document/white-paper-embracing-digital-disruption-by-adopting-devops-practices/) {{< figure library="true" src="dasa-whitepaper-1.jpg" title="" >}}  | [download article](https://www.devopsagileskills.org/resources/document/white-paper-the-need-for-new-skills-dasa-devops-competence-framework/) {{< figure library="true" src="dasa-whitepaper-2.jpg" title="" >}}
