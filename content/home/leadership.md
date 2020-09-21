@@ -24,7 +24,7 @@ design:
 Rik has more than 15 years of experience in the IT domain, and has built a rich leadership, management, consultancy and academic track record. He is open to challenging non-executive & executive board positions or temporary leadership roles to help organizations transform to the new digital normal. Rik can also be [contacted](#contact) for leadership coaching or advisory, to help leaders and management teams to boost their digital and organizational transformation. 
 
 ### Senior leadership experience (executive / non-executive)
- Rik was CIO of the airline Transavia, one of the strongest brands in the European aviation industry. Here he led the digital and organization transformation of Transavia, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
+ As CIO of Transavia airlines, one of the strongest brands in the European aviation industry, Rik led the digital and organization transformation, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
 
 {{< figure library="true" src="transavia.png" title="" >}}
 
