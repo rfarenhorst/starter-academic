@@ -50,7 +50,7 @@ In this section you will find featured articless, interviews, and videos to prov
 
 | CIO Magazine interview, 2019 (Dutch)            | Interview Management Team (Goudhaantje 2018 Award)         |
 | ------------------------------ | ------------------------------ | 
-| {{< youtube qQcRA4LiMow >}}       | {{< youtube WP-RqjnPKXo&t >}}  |
+| {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}      | https://www.mt.nl/goudhaantjes/rik-farenhorst-snijvlak-kennis-inspiratie/566882  |
 
 
 
