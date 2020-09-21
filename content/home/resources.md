@@ -43,8 +43,10 @@ In this section you will find featured articless, interviews, and videos to prov
 | ------------------------------ | ------------------------------ | 
 | <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>      | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/) {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}  |
 
-IASA Global (part 1) - the new role of the CIO
+IASA Global CIO interviews (2019)
 
-{{< youtube QyCMIv8BOMY >}}
+| Part 1: the new role of the CIO)     | Part 2: scaling agile and value management  | Part 3: creating the right Smell of the place  |
+| ------------------------------ | ------------------------------ |  ------------------------------ | 
+| {{< youtube QyCMIv8BOMY >}} | {{< youtube qQcRA4LiMow >}}  | {{< youtube WP-RqjnPKXo&t >}} |
 
 #### White papers
