@@ -23,6 +23,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+Over the past years Rik has built an impressive career in academia, consulting, training, and senior management. He has been in the luxurious position to have worked with great, knowledgeable and experienced leaders, experts, researchers, consultants, coaches, and trainers worldwide. It is his passion to share all this knowledge and experience as broadly and effective as possible. He is therefore committed to help shape and continuously expand the body of knowledge on digital transformation, organizational transformation and digital leadership. To make as much positive impact as possible, he will spend as much time as possible to connect to fellow leaders and experts in the field, help share their stories, and stimulate knowledge sharing by building a community or practice.
 
 Please find below links to articles, interviews, movies, and keynote presentations:
 
