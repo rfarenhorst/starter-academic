@@ -21,17 +21,14 @@ design:
     padding: ["20px", "0", "20px", "0"]
       
 gallery_item:
- - album: gallery
-   image: rik_speaking.jpg
-   caption: CIO Insights 2019
+ 
  - album: gallery
    image: rik_speaking2.png
    caption: DevOps Summit Amsterdam 2018  
- # - album: gallery
- #  image: speaking3.png
- #  caption: KnowIT conference, Helsinki 2019 
-  # {{< figure library="true" src="rik_speaking.jpg"markdown figure >}}  
-      
+ - album: gallery
+   image: rik_speaking.jpg
+   caption: CIO Insights 2019
+       
 ---
 {{< gallery >}}
 
