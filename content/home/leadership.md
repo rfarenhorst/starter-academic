@@ -20,33 +20,27 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
     
-gallery_item:
- - album: gallery
-   image: transavia.png
-   caption: Transavia
- - album: gallery
-   image: hth.jpg
-   caption: Hotelschool The Hague
- - album: gallery
-   image: dasa.jpg
-   caption: Hotelschool The Hague 
- # {{< gallery >}}
 ---
+Rik has more than 15 years of experience in the IT domain, and has built a rich leadership, management, consultancy and academic track record. He is open to challenging non-executive & executive board positions or a.i. leadership roles to help organizations transform to the new digital normal.
 
-### Senior leadership experience
-Rik has more than 15 years of experience in the IT domain, and has built a rich leadership, management, consultancy and academic track record. Rik was CIO of the airline Transavia, one of the strongest brands in the European aviation industry. Here he led the digital and organization transformation of Transavia, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
+### Senior leadership experience (executive / non-executive)
+ Rik was CIO of the airline Transavia, one of the strongest brands in the European aviation industry. Here he led the digital and organization transformation of Transavia, focusing explicitly on the culture, people and processes required to turn Transavia in a digital winner that creates tanglible value for both its passengers and employees.
 
 {{< figure library="true" src="transavia.png" title="" >}}
-{{< figure library="true" src="hth.jpg" title="" >}}
-{{< figure library="true" src="dasa.jpg" title="" >}}
 
-### (Non-executive) board positions
 Rik is a supervisory board member of Hotelschool the Hague, a single sector University of Applied Science in the Netherlands offering a Bachelor's degree and an MBA in Hotel and Hospitality Management. HTH is consistently ranked as one of the top 5 hospitality schools worldwide. Rik focuses on helping the hotelschool with its digital transformation and the role digital plays in its curricula, to position Hotelschool The Hague even better as one of the leading hotelschools in the world.
+
+{{< figure library="true" src="hth.jpg" title="" >}}
 
 During his board member position of the CIO platform Netherlands, Rik spearheaded the 'Transformation, People, & Organization theme' to promote knowledge sharing among its 130+ member organizations and helped expand the body of knowledge around what leaders should to to help their organizations benefit from all digital transformation opportunities that exist.
 
+{{< figure library="true" src="ciopn.jpg" title="" >}}
+
 ### DevOps Agile Skills association (DASA)
-Rik is also chairman of the Enterprise Leadership Forum of the DevOps Agile Skills Association (DASA). His aim is to inspire executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation and to promote best practices that help these organizations to start their own unique journeys, inspired by success (and failure) stories of peers.
+
+{{< figure library="true" src="dasa.jpg" title="" >}}
+
+Since 2018, Rik is chairman of the Enterprise Leadership Forum of the DevOps Agile Skills Association (DASA). His aim is to inspire executive leadership peers and professionals on a global scale to help organizations to profit from digital and organizational transformation and to promote best practices that help these organizations to start their own unique journeys, inspired by success (and failure) stories of peers.
 
 
 
