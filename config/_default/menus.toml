@@ -17,13 +17,8 @@
   name = "Training"
   url = "#training"
   weight = 30
-
-[[main]]
-  name = "Advisory"
-  url = "#advisory"
-  weight = 40
-
-  [[main]]
+  
+ [[main]]
   name = "Leadership"
   url = "#leadership"
   weight = 50
