@@ -27,9 +27,9 @@ email: "rik@rethinkdigital.nl"
 
 ---
 
-Throughout his 15+ year career Rik has focused on helping organizations getting more value out of IT. Often this has not much to do with changing or investing in technology. It is almost always primarily about culture, leadership, and organizational transformation. In Rik's view, in these disruptive times, digital-driven innovation and organizational transformation is urgent and a necessity for organizations to survive. 
+Throughout my 15+ year career I have focused on helping organizations getting more value out of IT. Often this has not much to do with changing or investing in technology. It is almost always primarily about culture, leadership, and organizational transformation. In my view, in these disruptive times, digital-driven innovation and organizational transformation is urgent and a necessity for organizations to survive. 
 
-With his company Rethink Digital, Rik helps organizations to rethink the way they do digital and help them to transform into High-Performance Digital Organizations. This typically involves challenging the status quo, providing guidance for a new (digital) strategy and organizational future state, and coaching and training of leadership and transformation teams.
+With my company Rethink Digital, I guide organizations to rethink the way they do digital and help them to transform into High-Performance Digital Organizations. This typically involves challenging the status quo, providing guidance for a new (digital) strategy and organizational future state, and coaching and training of leadership and transformation teams.
 
 
 
