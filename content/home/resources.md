@@ -23,9 +23,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Rik is well-known for his global leadership in DevOps, Agile, and digital transformation. It is his passion to share all this knowledge and experience as broadly and effective as possible. He is therefore committed to help shape and continuously expand the body of knowledge on digital transformation, organizational transformation and digital leadership. To make as much positive impact as possible, he will spend as much time as possible to connect to fellow leaders and experts in the field, help share their stories, and stimulate knowledge sharing by building a community or practice. 
+Rik is well-known for his global leadership in digital and organizational transformation, DevOps, Agile, and Enterprise/IT architecture. He is committed to help shape and continuously expand the body of knowledge on these topics by sharing his own experiences, successes and failures. In addition he is committed to building a community of practice of leaders and experts that focus on sharing stories on digital disruption, transformation, high-performance organizations, and effective leadership in this digital era. 
 
-In this section you will find some featured articles, interviews, and videos to provide you with pointers for how to best embark on your own journey!
+Below you will find some featured articles, interviews, and videos to provide you with pointers for how to best embark on your own digital or organizational transformation journey.
 
 #### DevOps Agile Skills Association
 
