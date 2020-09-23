@@ -41,7 +41,7 @@ Below you will find some featured articles, interviews, and videos to provide yo
 
 | Rik Farenhorst & Mik Kersten advising digital leaders            | Interview CIO magazine, 2019          |
 | ------------------------------ | ------------------------------ | 
-| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script> | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/) {{< figure library="true" src="interview-ciomagazine.jpg" title="">}} |
+| <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script> | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/)     {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}
 
 
 #### White papers
