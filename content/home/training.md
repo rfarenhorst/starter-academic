@@ -29,12 +29,10 @@ gallery_item:
  
   
 ---
-
 {{< gallery >}}
 
-A lecture or keynote presentation by Rik usually lasts an hour. However, sometimes there is a need for a longer duration or more intensive interaction. Then a workshop or training is probably a better alternative. 
+A lecture or keynote presentation by Rik usually lasts an hour. However, sometimes there is a need for a longer duration or more intensive interaction. Then a workshop or training is probably a better alternative. Workshops usually last 2 to 3 hours and are designed together with the client to give best results. 
 
-Workshops usually last 2 to 3 hours and are designed together with the client to give best results. Training by Rik is also possible, both classroom or online, varying from one or two-day trainings, to, for example, half a day per month for six months in a row. Please [get in touch](#contact) to discuss the possibilities!
+Rik can also be booked for providing a 1 or 2-day training (online or on-premise). Tailor-made in-company variations (e.g. half a day per month for six months in a row) are possible as well. Please [get in touch](#contact) to discuss the possibilities!
 
-Typical subjects Rik provides workshops and trainings on include digital leadership, culture, digital transformation, organizational transformation, Agile & DevOps, and (enterprise) IT architecture. Rik is a certified author and trainer of the DevOps Agile Skills Association (DASA).
-
+Typical subjects Rik provides workshops and trainings on include digital leadership, creating high-performance organizations, organizational and digital transformation, Agile & DevOps (at scale), and (enterprise) IT architecture. Rik is also a founding member, courseware developer and, certified master trainer of the DevOps Agile Skills Association (DASA).
