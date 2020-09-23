@@ -43,9 +43,9 @@ Below you will find some featured articles, interviews, and videos to provide yo
 | ------------------------------ | ------------------------------ | 
 | <iframe src="https://fast.wistia.net/embed/iframe/yq9g8uo61q" title="Interview Mik and Rik" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="320" height="180"></iframe><script src="https://fast.wistia.net/assets/external/E-v1.js" async></script> | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/)     {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}
 
-| Podcast Bits vs. Bytes, 2019            | placeholder         |
-| ------------------------------ | ------------------------------ | 
-| [link to podcast](https://bitsvsbytes.com/podcast/065-digital-transformation-transavia/) {{< figure library="true" src="bitsbytes-podcast.png" title="" >}} | [link to interview](https://itexecutive.nl/interview/rik-farenhorst-cio-transavia-connecting-the-dots/)     {{< figure library="true" src="interview-ciomagazine.jpg" title="" >}}
+| Podcast Bits vs. Bytes, 2019            | 
+| ------------------------------ | 
+| [link to podcast](https://bitsvsbytes.com/podcast/065-digital-transformation-transavia/) {{< figure library="true" src="bitsbytes-podcast.png" title="" >}}
 
 #### White papers
 
