@@ -32,9 +32,9 @@ gallery_item:
 ---
 {{< gallery >}}
 
-Rik is an international keynote speaker and has delivered many lectures on conferences, (inc-company) events. Favorite topics are building high-performance digital organizations, the interplay between digital and organizational transformation, the importance of facilitative and digital leadership, talent management, and DevOps & Agile at scale. 
+Rik is an international keynote speaker and has delivered many lectures on conferences and (in-company) events. Favorite topics are building high-performance digital organizations, the interplay between digital and organizational transformation, the importance of facilitative and digital leadership, talent management, and DevOps & Agile at scale. 
 
-Do you want to book Rik for a lecture or keynote at your event? [Get in touch](#contact) to discuss the possibilities!
+Do you want to book Rik for a lecture or keynote at your (online) event? [Get in touch](#contact) to discuss the possibilities!
 
 #### Selected Talks
 
