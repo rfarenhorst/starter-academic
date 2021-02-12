@@ -49,6 +49,9 @@ Below you will find some featured articles, interviews, and videos to provide yo
 
 #### White papers
 
-| Embracing digital disruption by adopting DevOps practices            | The need for new skills - DASA DevOps Competence Framework          |
+| DevOps: A maturing discipline            | Embracing digital disruption by adopting DevOps practices         |
 | ------------------------------ | ------------------------------ | 
-| [download article](https://www.devopsagileskills.org/resources/document/white-paper-embracing-digital-disruption-by-adopting-devops-practices/) {{< figure library="true" src="dasa-whitepaper-1.jpg" title="" >}}  | [download article](https://www.devopsagileskills.org/resources/document/white-paper-the-need-for-new-skills-dasa-devops-competence-framework/) {{< figure library="true" src="dasa-whitepaper-2.jpg" title="" >}}
+| [download article](https://www.devopsagileskills.org/resources/document/white-paper-devops-a-maturing-discipline/) {{< figure library="true" src="dasa-whitepaper-9.jpg" title="" >}}  | [download article](https://www.devopsagileskills.org/resources/document/white-paper-embracing-digital-disruption-by-adopting-devops-practices/) {{< figure library="true" src="dasa-whitepaper-1.jpg" title="" >}}
+
+
+
